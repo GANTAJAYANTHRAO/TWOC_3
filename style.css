@@ -1,0 +1,161 @@
+.body {
+    padding: 50px;
+    background-image: url(T.W.O.C_BG.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+
+}
+
+
+
+
+.section1 {
+    display: flex;
+    flex-direction: row;
+    gap: 185px;
+}
+
+.h1 {
+    color: white;
+
+}
+
+
+.h2 {
+    color: white;
+    text-align: center;
+
+
+}
+
+
+
+.logo {
+    width: 175px;
+    height: 100px;
+    border-radius: 50%;
+
+}
+
+.chatbox {
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+
+}
+
+.nav {
+    margin: auto 0px;
+}
+
+
+.custom-search-input {
+    width: 500px;
+    height: 40px;
+    border-radius: 20px;
+}
+
+
+.custom-search-button {
+    width: 80px;
+    height: 35px;
+    border-radius: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+/* CONTENT */
+
+.course1 {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    gap: 250px;
+    margin-left: 80px;
+}
+
+.section3 {
+    width: 200px;
+    height: 200px;
+    border-radius: 25px;
+    /* background-color: white; */
+    background-image: url(T.W.O.C_BG.png);
+    border-style: solid;
+    border-color: white;
+
+}
+
+
+.name {
+    text-align: center;
+    color: white;
+    margin-top: 45px;
+    font-family: initial;
+    font-weight: 300;
+}
+
+
+.icon {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    margin-left: 70px;
+
+}
+
+
+.h3 {
+    width: 120px;
+    height: 30px;
+    border-radius: 50px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 8px;
+    margin-top: 25px;
+    margin-left: 40px;
+
+}
+
+
+
+
+.name1 {
+    text-align: center;
+    color: white;
+    margin-top: 5px;
+    font-family: initial;
+    font-weight: 300;
+}
+
+
+.icon_1 {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    margin-left: 70px;
+    margin-top: 13px;
+}
+
+
+.h3_1 {
+    width: 120px;
+    height: 30px;
+    border-radius: 50px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 8px;
+    margin-top: 20px;
+    margin-left: 40px;
+
+}
